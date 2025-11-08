@@ -1,5 +1,3 @@
-use retail_sql;
-
 CREATE TABLE Retail_Sales
      (
       transactions_id INT PRIMARY KEY,
